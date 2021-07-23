@@ -1,1 +1,1 @@
-hello world with the new maven version
+hello world with quarkus 2
